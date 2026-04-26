@@ -19,7 +19,7 @@ Corsi's HAR-RV remains one of the most cited volatility forecasting models in th
 - **Train / test split:** 80 / 20, chronological (no shuffling)
 - **Test period:** approximately 2014–2018
 
-The dataset is no longer available through Oxford-Man, however it is included in this repository under  `data/oxfordmanrealizedvolatilityindices.csv`.
+The dataset is no longer available through Oxford-Man, however it is included in this repository under  `compressed_data.csv.gz`.
 
 ---
 
